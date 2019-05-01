@@ -1,0 +1,31 @@
+{
+  "name": "ngx-connectivity",
+  "version": "0.0.1",
+  "author": {
+    "name": "Emmanuel Enwenede",
+    "email": "emmanuel@blueeel.co.uk",
+    "url": "https://blueeel.co.uk"
+  },
+  "keywords": [
+    "Angular",
+    "Internet connectivity",
+    "connectivity",
+    "Internet"
+  ],
+  "license": "ISC",
+  "description": "A package that helps monitor access to the internet and http request for angular 6++",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noelenwenede/ngx-connectivity"
+  },
+  "homepage": "https://github.com/noelenwenede/ngx-connectivity.git#readme",
+  "bugs": {
+    "url": "https://github.com/noelenwenede/ngx-connectivity/issues",
+    "email": "emmanuel@blueeel.co.uk"
+  },
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "rxjs": "^6.0.0"
+  }
+}
