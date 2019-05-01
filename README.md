@@ -2,6 +2,10 @@
 ngx-connectivity is an Angular 6+ service that helps monitor the **internet 
 connectivity** status of any device running your angular app.
 
+```
+    npm i ngx-connectivity --save
+```
+
 
 [demo](https://stackblitz.com/edit/ngx-connectivity)
 
