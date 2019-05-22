@@ -1,6 +1,6 @@
 {
   "name": "ngx-connectivity",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "author": {
     "name": "Emmanuel Enwenede",
     "email": "emmanuel@blueeel.co.uk",
@@ -10,10 +10,14 @@
     "Angular",
     "Internet connectivity",
     "connectivity",
-    "Internet"
+    "Internet",
+    "http",
+    "http connection",
+    "connection",
+    "internet connection"
   ],
   "license": "ISC",
-  "description": "A package that helps monitor access to the internet and http request for angular 6++",
+  "description": "Angular services monitor access to the internet and http request for angular 6++. Can be used to show combined spinner to navigation and loading.",
   "repository": {
     "type": "git",
     "url": "https://github.com/noelenwenede/ngx-connectivity"
